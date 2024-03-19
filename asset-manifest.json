@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/YASH--Portfolio/static/css/main.40fb1c46.css",
+    "main.js": "/YASH--Portfolio/static/js/main.81c592ad.js",
+    "static/js/124.0a6f5c2e.chunk.js": "/YASH--Portfolio/static/js/124.0a6f5c2e.chunk.js",
+    "static/css/56.38b2df9f.chunk.css": "/YASH--Portfolio/static/css/56.38b2df9f.chunk.css",
+    "static/js/56.db23be3c.chunk.js": "/YASH--Portfolio/static/js/56.db23be3c.chunk.js",
+    "static/js/660.dff304d2.chunk.js": "/YASH--Portfolio/static/js/660.dff304d2.chunk.js",
+    "static/js/57.a15a0fdc.chunk.js": "/YASH--Portfolio/static/js/57.a15a0fdc.chunk.js",
+    "static/js/697.a64a4bb1.chunk.js": "/YASH--Portfolio/static/js/697.a64a4bb1.chunk.js",
+    "static/js/449.14f530b1.chunk.js": "/YASH--Portfolio/static/js/449.14f530b1.chunk.js",
+    "static/js/453.87e45203.chunk.js": "/YASH--Portfolio/static/js/453.87e45203.chunk.js",
+    "static/js/574.9eee1509.chunk.js": "/YASH--Portfolio/static/js/574.9eee1509.chunk.js",
+    "static/js/712.f6a863d5.chunk.js": "/YASH--Portfolio/static/js/712.f6a863d5.chunk.js",
+    "index.html": "/YASH--Portfolio/index.html",
+    "main.40fb1c46.css.map": "/YASH--Portfolio/static/css/main.40fb1c46.css.map",
+    "main.81c592ad.js.map": "/YASH--Portfolio/static/js/main.81c592ad.js.map",
+    "124.0a6f5c2e.chunk.js.map": "/YASH--Portfolio/static/js/124.0a6f5c2e.chunk.js.map",
+    "56.38b2df9f.chunk.css.map": "/YASH--Portfolio/static/css/56.38b2df9f.chunk.css.map",
+    "56.db23be3c.chunk.js.map": "/YASH--Portfolio/static/js/56.db23be3c.chunk.js.map",
+    "660.dff304d2.chunk.js.map": "/YASH--Portfolio/static/js/660.dff304d2.chunk.js.map",
+    "57.a15a0fdc.chunk.js.map": "/YASH--Portfolio/static/js/57.a15a0fdc.chunk.js.map",
+    "697.a64a4bb1.chunk.js.map": "/YASH--Portfolio/static/js/697.a64a4bb1.chunk.js.map",
+    "449.14f530b1.chunk.js.map": "/YASH--Portfolio/static/js/449.14f530b1.chunk.js.map",
+    "453.87e45203.chunk.js.map": "/YASH--Portfolio/static/js/453.87e45203.chunk.js.map",
+    "574.9eee1509.chunk.js.map": "/YASH--Portfolio/static/js/574.9eee1509.chunk.js.map",
+    "712.f6a863d5.chunk.js.map": "/YASH--Portfolio/static/js/712.f6a863d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40fb1c46.css",
+    "static/js/main.81c592ad.js"
+  ]
+}

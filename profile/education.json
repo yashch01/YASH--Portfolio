@@ -1,0 +1,15 @@
+{
+    "education":[
+        {
+            "title": "Jun 2021 - Jun 2025",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"I.T.S Engineering College, Greater NOida"
+        
+        },
+        {
+            "title": "2021",
+            "cardTitle": "High School",
+            "cardSubtitle":"Guru Gobind Singh Public School, Bokaro"
+        }
+    ]
+}
