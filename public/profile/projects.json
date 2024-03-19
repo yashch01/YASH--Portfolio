@@ -1,0 +1,104 @@
+{
+    "projects" : [
+        {
+            "title": "Yash Portfolio",
+            "bodyText": "- My Portfolio Website made in React\n- Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yashch01/YASH--Portfolio"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Amazon Clone",
+            "bodyText": "- This project is about Clone Amazon Global Website.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yashch01/Amazon-Clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://yashch01.github.io/Amazon-Clone/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "title": "TinDog Website",
+            "bodyText": "- Bootstrap Website.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://yashch01.github.io/Bootstrap-Simple-Website/"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://yashch01.github.io/Bootstrap-Simple-Website/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "Bootstrap"
+            ]
+        },
+        {
+            "title": "Netflix Clone",
+            "bodyText": "- This project is about Netflix Clone made with help of HTML and CSS. Responsive for both small and large screensize.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yashch01/Netflix--Clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://yashch01.github.io/Netflix--Clone/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "title": "Multi-Lingo-Chat-Assistant",
+            "bodyText": "- The MultiLingo Chat Assistant is a Python program that integrates OpenAI ChatGPT and Google Translate to provide a seamless and user-friendly experience for global communication.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yashch01/Multi-Lingo-Chat-Assistant"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "OpenAI",
+                "API"
+            ]
+        },
+        {
+            "title": "Weather-website",
+            "bodyText": "- This is a Weather App made with React, CSS and JavaScript. I used OpenWeather API to fetch weather data.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yashch01/Weather-website"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "CSS"
+            ]
+        }
+        
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/yashk0038/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/yashch01"
+        },
+        {
+            "network" : "email",
+            "href": "yashk0038@gmail.com"
+        }
+    ]
+}
